@@ -1,7 +1,3 @@
 # GUIAssignment
 
-https://msdn.microsoft.com/en-us/library/gg406140.aspx
-
-
-
-http://prismlibrary.readthedocs.io/en/latest/WPF/05-Implementing-MVVM/
+https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40).aspx
